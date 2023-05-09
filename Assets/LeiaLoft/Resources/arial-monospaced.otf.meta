@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ba276bf4e81434aefb89c3986b16826b
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial Monospaced MT Std
+  fontNames:
+  - Arial Monospaced MT Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

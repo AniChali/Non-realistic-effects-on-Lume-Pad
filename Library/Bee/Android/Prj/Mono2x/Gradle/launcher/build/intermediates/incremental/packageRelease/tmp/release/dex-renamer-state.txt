@@ -1,0 +1,4 @@
+#Tue May 09 16:53:53 CEST 2023
+base.0=/Users/anich/Documents/VUT_2022-23/BP/App/DONE_DONE_DONE/EffectsApp/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,11 @@
+{
+    "intParams": [
+        {
+            "Name": "depthBits",
+            "Collection": [
+                24
+            ]
+        }
+    ]
+}
+
