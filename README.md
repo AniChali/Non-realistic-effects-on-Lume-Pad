@@ -16,7 +16,7 @@ Used effects: edge detection, ordered dithering, random dithering, thresholding,
 
 A)
 Application uses Unity, version 2021.2.11f1.
-To build application on Lume Pad select the Android build option.
+To build the application on Lume Pad select the Android build option.
 Then copy EffectsApp.apk to Lume Pad and install the app.
 
 B)
